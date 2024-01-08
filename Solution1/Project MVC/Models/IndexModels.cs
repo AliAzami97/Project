@@ -2,7 +2,7 @@
 {
 	public class IndexModel
 	{
-		public List<News> New { get; set; }
-		public List<Events> Event { get; set; }
+		public List<Project> project { get; set; }
+		public List<Article> article { get; set; }
 	}
 }

@@ -1,6 +1,6 @@
 ﻿namespace Project_MVC.Models
 {
-	public class Events
+	public class Article
 	{
 		public long ID { get; set; }
 		public string title { get; set; }
